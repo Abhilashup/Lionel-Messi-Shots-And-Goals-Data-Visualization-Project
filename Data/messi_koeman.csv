@@ -1,0 +1,137 @@
+minute,result,X,Y,xG,player,h_a,player_id,situation,year,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25,BlockedShot,0.960999985,0.572000008,0.596103013,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,27-09-2020 19:00,Anssumane Fati,Pass
+48,SavedShot,0.894000015,0.585,0.13612701,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,27-09-2020 19:00,Anssumane Fati,Throughball
+65,SavedShot,0.874000015,0.258999996,0.051176287,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,27-09-2020 19:00,Frenkie de Jong,Pass
+71,MissedShots,0.911999969,0.492999992,0.409951925,Lionel Messi,h,2097,OpenPlay,2020,Head,14156,Barcelona,Villarreal,4,0,27-09-2020 19:00,Jordi Alba,Cross
+85,SavedShot,0.858000031,0.455999985,0.086302333,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,27-09-2020 19:00,NA,Rebound
+91,BlockedShot,0.961999969,0.658000031,0.075428814,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,27-09-2020 19:00,Trincão,TakeOn
+94,SavedShot,0.929000015,0.688000031,0.446327388,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14165,Celta Vigo,Barcelona,0,3,01-10-2020 19:30,Frenkie de Jong,TakeOn
+42,MissedShots,0.875,0.305,0.064127594,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14817,Barcelona,Sevilla,1,1,04-10-2020 19:00,Sergio Busquets,TakeOn
+80,SavedShot,0.756999969,0.580999985,0.023183538,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14817,Barcelona,Sevilla,1,1,04-10-2020 19:00,Sergiño Dest,Pass
+93,MissedShots,0.748000031,0.245,0.017218063,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14817,Barcelona,Sevilla,1,1,04-10-2020 19:00,Sergio Busquets,Pass
+19,ShotOnPost,0.84,0.632999992,0.058221526,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14830,Getafe,Barcelona,1,0,17-10-2020 19:00,Sergiño Dest,Pass
+93,MissedShots,0.868000031,0.535999985,0.040119424,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14830,Getafe,Barcelona,1,0,17-10-2020 19:00,Gerard Piqué,Aerial
+18,SavedShot,0.755999985,0.625999985,0.022679653,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14836,Barcelona,Real Madrid,1,3,24-10-2020 14:00,Frenkie de Jong,TakeOn
+23,SavedShot,0.949000015,0.41,0.361253232,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,24-10-2020 14:00,Anssumane Fati,TakeOn
+45,SavedShot,0.873000031,0.59,0.084434025,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14845,Alaves,Barcelona,1,1,31-10-2020 20:00,Anssumane Fati,Pass
+47,SavedShot,0.964000015,0.746999969,0.036931932,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14845,Alaves,Barcelona,1,1,31-10-2020 20:00,Anssumane Fati,None
+50,SavedShot,0.891999969,0.694000015,0.037839819,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14845,Alaves,Barcelona,1,1,31-10-2020 20:00,Pedri,TakeOn
+64,SavedShot,0.889000015,0.387999992,0.093920887,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14845,Alaves,Barcelona,1,1,31-10-2020 20:00,Sergi Roberto,Pass
+93,BlockedShot,0.785999985,0.387999992,0.042574953,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14845,Alaves,Barcelona,1,1,31-10-2020 20:00,Pedri,LayOff
+81,Goal,0.931999969,0.369000015,0.381431997,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14856,Barcelona,Real Betis,5,2,07-11-2020 15:15,Sergi Roberto,Pass
+87,SavedShot,0.92,0.387999992,0.125298485,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,14856,Barcelona,Real Betis,5,2,07-11-2020 15:15,Miralem Pjanic,Pass
+40,SavedShot,0.965,0.625999985,0.315915436,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14867,Atletico Madrid,Barcelona,1,0,21-11-2020 20:00,Jordi Alba,Pass
+73,BlockedShot,0.800999985,0.495999985,0.047846265,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14867,Atletico Madrid,Barcelona,1,0,21-11-2020 20:00,Ousmane Dembélé,Pass
+14,BlockedShot,0.911999969,0.703000031,0.044425778,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14875,Barcelona,Osasuna,4,0,29-11-2020 13:00,Frenkie de Jong,Pass
+72,Goal,0.824000015,0.572999992,0.088589676,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14875,Barcelona,Osasuna,4,0,29-11-2020 13:00,Trincão,Pass
+49,SavedShot,0.815,0.545999985,0.056794409,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14885,Cadiz,Barcelona,2,1,05-12-2020 20:00,Martin Braithwaite,Pass
+53,BlockedShot,0.798000031,0.57,0.041429576,Lionel Messi,a,2097,OpenPlay,2020,RightFoot,14885,Cadiz,Barcelona,2,1,05-12-2020 20:00,Ousmane Dembélé,Pass
+72,SavedShot,0.785999985,0.334000015,0.022172045,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14885,Cadiz,Barcelona,2,1,05-12-2020 20:00,Antoine Griezmann,Pass
+83,SavedShot,0.865999985,0.515999985,0.089570567,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14885,Cadiz,Barcelona,2,1,05-12-2020 20:00,Antoine Griezmann,Pass
+12,BlockedShot,0.855999985,0.675999985,0.048911534,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Jordi Alba,Pass
+25,MissedShots,0.89,0.51,0.088285722,Lionel Messi,h,2097,OpenPlay,2020,Head,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Antoine Griezmann,Cross
+29,MissedShots,0.823000031,0.350999985,0.038065732,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Frenkie de Jong,Pass
+50,BlockedShot,0.968000031,0.648000031,0.072198786,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Jordi Alba,Pass
+53,MissedShots,0.800999985,0.595999985,0.036356252,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Antoine Griezmann,Pass
+62,SavedShot,0.908000031,0.594000015,0.117465347,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Antoine Griezmann,Pass
+70,SavedShot,0.976999969,0.656999969,0.060197938,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,NA,None
+75,Goal,0.879000015,0.619000015,0.305873692,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Frenkie de Jong,Pass
+80,SavedShot,0.96,0.639000015,0.106106341,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14898,Barcelona,Levante,1,0,13-12-2020 20:00,Martin Braithwaite,Pass
+2,BlockedShot,0.870999985,0.572000008,0.095620468,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14905,Barcelona,Real Sociedad,2,1,16-12-2020 20:00,Pedri,Pass
+22,MissedShots,0.764000015,0.447999992,0.026101723,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14905,Barcelona,Real Sociedad,2,1,16-12-2020 20:00,Antoine Griezmann,Pass
+47,SavedShot,0.864000015,0.656999969,0.071577072,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14905,Barcelona,Real Sociedad,2,1,16-12-2020 20:00,Sergio Busquets,Pass
+19,BlockedShot,0.744000015,0.305,0.013550824,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14909,Barcelona,Valencia,2,2,19-12-2020 15:15,Pedri,LayOff
+39,BlockedShot,0.756999969,0.557000008,0.030890021,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14909,Barcelona,Valencia,2,2,19-12-2020 15:15,Sergio Busquets,TakeOn
+50,BlockedShot,0.768000031,0.587000008,0.025376741,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,14909,Barcelona,Valencia,2,2,19-12-2020 15:15,Jordi Alba,Pass
+62,BlockedShot,0.844000015,0.385999985,0.077003941,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14909,Barcelona,Valencia,2,2,19-12-2020 15:15,Sergiño Dest,Pass
+74,SavedShot,0.805999985,0.490999985,0.071647063,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14909,Barcelona,Valencia,2,2,19-12-2020 15:15,Frenkie de Jong,TakeOn
+83,SavedShot,0.811999969,0.475,0.043896247,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,14909,Barcelona,Valencia,2,2,19-12-2020 15:15,NA,Rebound
+85,MissedShots,0.76,0.29,0.019917894,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14909,Barcelona,Valencia,2,2,19-12-2020 15:15,Miralem Pjanic,Pass
+6,MissedShots,0.803000031,0.492999992,0.046756253,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Frenkie de Jong,Pass
+20,SavedShot,0.845999985,0.622999992,0.059957139,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Pedri,Pass
+22,BlockedShot,0.726999969,0.34,0.022365924,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Miralem Pjanic,Pass
+36,SavedShot,0.885999985,0.397000008,0.124662571,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Sergiño Dest,Pass
+44,SavedShot,0.860999985,0.455,0.107433826,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Pedri,Chipped
+55,BlockedShot,0.885999985,0.666999969,0.095824182,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Jordi Alba,Pass
+57,SavedShot,0.88,0.602000008,0.125854775,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Frenkie de Jong,Pass
+64,Goal,0.908000031,0.615,0.335706681,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Pedri,Pass
+72,SavedShot,0.94,0.620999985,0.11910934,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Júnior Firpo,Pass
+91,ShotOnPost,0.951999969,0.607999992,0.370002836,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Sergio Busquets,Pass
+93,SavedShot,0.770999985,0.49,0.044714149,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,22-12-2020 21:00,Sergiño Dest,Pass
+8,MissedShots,0.943000031,0.337000008,0.039061692,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14942,SD Huesca,Barcelona,0,1,03-01-2021 20:00,Jordi Alba,Cross
+30,BlockedShot,0.805999985,0.316000004,0.032561444,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14942,SD Huesca,Barcelona,0,1,03-01-2021 20:00,Sergiño Dest,Pass
+50,MissedShots,0.818000031,0.445,0.075523071,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14942,SD Huesca,Barcelona,0,1,03-01-2021 20:00,Sergio Busquets,Pass
+59,MissedShots,0.811999969,0.530999985,0.086429246,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14942,SD Huesca,Barcelona,0,1,03-01-2021 20:00,Martin Braithwaite,LayOff
+67,SavedShot,0.956999969,0.658000031,0.087689288,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14942,SD Huesca,Barcelona,0,1,03-01-2021 20:00,Pedri,Pass
+37,Goal,0.853000031,0.658000031,0.208058268,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,06-01-2021 20:00,Pedri,Pass
+42,MissedShots,0.835999985,0.449000015,0.083785042,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,06-01-2021 20:00,Antoine Griezmann,Pass
+58,ShotOnPost,0.77,0.464000015,0.036890205,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,06-01-2021 20:00,Ousmane Dembélé,Pass
+61,Goal,0.920999985,0.580999985,0.137084812,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,06-01-2021 20:00,Antoine Griezmann,Pass
+71,ShotOnPost,0.856999969,0.519000015,0.12755163,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14947,Athletic Club,Barcelona,2,3,06-01-2021 20:00,Pedri,Pass
+34,Goal,0.866999969,0.542999992,0.116721533,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14951,Granada,Barcelona,0,4,09-01-2021 17:30,Antoine Griezmann,Pass
+4,SavedShot,0.960999985,0.419000015,0.50488627,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,31-01-2021 20:00,Antoine Griezmann,Pass
+13,MissedShots,0.953000031,0.572999992,0.468425453,Lionel Messi,h,2097,OpenPlay,2020,OtherBodyPart,14978,Barcelona,Athletic Club,2,1,31-01-2021 20:00,Miralem Pjanic,Rebound
+47,BlockedShot,0.796999969,0.517999992,0.059107002,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,31-01-2021 20:00,NA,TakeOn
+58,Goal,0.843000031,0.352999992,0.051654451,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14991,Real Betis,Barcelona,2,3,07-02-2021 20:00,Ousmane Dembélé,Pass
+6,SavedShot,0.97,0.835,0.017328773,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14998,Barcelona,Alaves,5,1,13-02-2021 20:00,NA,None
+45,Goal,0.764000015,0.360999985,0.031446289,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14998,Barcelona,Alaves,5,1,13-02-2021 20:00,Sergio Busquets,TakeOn
+63,MissedShots,0.848000031,0.629000015,0.081902988,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14998,Barcelona,Alaves,5,1,13-02-2021 20:00,Antoine Griezmann,Pass
+74,Goal,0.755,0.47,0.035308301,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14998,Barcelona,Alaves,5,1,13-02-2021 20:00,Antoine Griezmann,Pass
+86,SavedShot,0.9,0.655,0.101541393,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14998,Barcelona,Alaves,5,1,13-02-2021 20:00,Riqui Puig,Chipped
+17,BlockedShot,0.856999969,0.335,0.13759248,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,15010,Barcelona,Cadiz,1,1,21-02-2021 13:00,Sergio Busquets,Throughball
+18,MissedShots,0.743000031,0.375999985,0.020135792,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15010,Barcelona,Cadiz,1,1,21-02-2021 13:00,Sergio Busquets,Pass
+22,SavedShot,0.861999969,0.472000008,0.100670643,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,15010,Barcelona,Cadiz,1,1,21-02-2021 13:00,Sergiño Dest,Pass
+28,SavedShot,0.758000031,0.542000008,0.022539543,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15010,Barcelona,Cadiz,1,1,21-02-2021 13:00,Sergio Busquets,Pass
+63,MissedShots,0.919000015,0.437000008,0.05782479,Lionel Messi,h,2097,OpenPlay,2020,Head,15010,Barcelona,Cadiz,1,1,21-02-2021 13:00,Jordi Alba,Aerial
+72,MissedShots,0.955999985,0.57,0.575663924,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,15010,Barcelona,Cadiz,1,1,21-02-2021 13:00,NA,None
+78,MissedShots,0.764000015,0.68,0.027816143,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15010,Barcelona,Cadiz,1,1,21-02-2021 13:00,Ousmane Dembélé,Pass
+47,Goal,0.92,0.485999985,0.575442791,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14141,Barcelona,Elche,3,0,24-02-2021 20:00,Martin Braithwaite,Pass
+50,BlockedShot,0.808000031,0.485,0.069300741,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14141,Barcelona,Elche,3,0,24-02-2021 20:00,Martin Braithwaite,Pass
+68,Goal,0.95,0.524000015,0.575618923,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14141,Barcelona,Elche,3,0,24-02-2021 20:00,Frenkie de Jong,TakeOn
+59,MissedShots,0.850999985,0.622999992,0.075952359,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15026,Sevilla,Barcelona,0,2,27-02-2021 15:15,Ousmane Dembélé,Pass
+84,Goal,0.975,0.54,0.730012715,Lionel Messi,a,2097,OpenPlay,2020,RightFoot,15026,Sevilla,Barcelona,0,2,27-02-2021 15:15,NA,Rebound
+84,SavedShot,0.92,0.562999992,0.328361452,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15026,Sevilla,Barcelona,0,2,27-02-2021 15:15,Ilaix Moriba,TakeOn
+15,BlockedShot,0.815999985,0.475,0.062026005,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15033,Osasuna,Barcelona,0,2,06-03-2021 20:00,Óscar Mingueza,Pass
+42,MissedShots,0.785,0.68,0.032544579,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15033,Osasuna,Barcelona,0,2,06-03-2021 20:00,Jordi Alba,TakeOn
+43,BlockedShot,0.820999985,0.637000008,0.056717239,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15033,Osasuna,Barcelona,0,2,06-03-2021 20:00,Frenkie de Jong,Pass
+47,SavedShot,0.755999985,0.370999985,0.026601534,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15033,Osasuna,Barcelona,0,2,06-03-2021 20:00,Ousmane Dembélé,Pass
+81,SavedShot,0.935,0.422999992,0.184063017,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15033,Osasuna,Barcelona,0,2,06-03-2021 20:00,Martin Braithwaite,TakeOn
+12,Goal,0.805,0.602000008,0.041483499,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15039,Barcelona,SD Huesca,4,1,15-03-2021 20:00,Sergio Busquets,TakeOn
+15,MissedShots,0.881999969,0.569000015,0.121755369,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,15039,Barcelona,SD Huesca,4,1,15-03-2021 20:00,Ousmane Dembélé,Pass
+70,MissedShots,0.895999985,0.839000015,0.099785566,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15039,Barcelona,SD Huesca,4,1,15-03-2021 20:00,Pedri,TakeOn
+89,Goal,0.746999969,0.377000008,0.029602502,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15039,Barcelona,SD Huesca,4,1,15-03-2021 20:00,Trincão,Pass
+10,SavedShot,0.815999985,0.55,0.061580375,Lionel Messi,a,2097,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,21-03-2021 20:00,Jordi Alba,Pass
+16,BlockedShot,0.811999969,0.470999985,0.054932751,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,21-03-2021 20:00,Sergio Busquets,Pass
+55,Goal,0.903000031,0.524000015,0.522255003,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,21-03-2021 20:00,Sergio Busquets,Throughball
+88,Goal,0.898000031,0.557000008,0.514252484,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,21-03-2021 20:00,Jordi Alba,Pass
+26,MissedShots,0.875999985,0.617999992,0.090832271,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15059,Barcelona,Real Valladolid,1,0,05-04-2021 19:00,Jordi Alba,Pass
+39,BlockedShot,0.865999985,0.627000008,0.078085035,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15059,Barcelona,Real Valladolid,1,0,05-04-2021 19:00,Ousmane Dembélé,Pass
+56,SavedShot,0.739000015,0.37,0.020655442,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15059,Barcelona,Real Valladolid,1,0,05-04-2021 19:00,Antoine Griezmann,Pass
+70,MissedShots,0.74,0.555,0.019548181,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15059,Barcelona,Real Valladolid,1,0,05-04-2021 19:00,Ousmane Dembélé,Pass
+40,BlockedShot,0.816999969,0.594000015,0.046623643,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15074,Real Madrid,Barcelona,2,1,10-04-2021 19:00,Ronald Araújo,Pass
+44,BlockedShot,0.965,0.716999969,0.038284361,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15074,Real Madrid,Barcelona,2,1,10-04-2021 19:00,Clement Lenglet,Pass
+47,BlockedShot,0.951999969,0.584000015,0.11577484,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15074,Real Madrid,Barcelona,2,1,10-04-2021 19:00,Pedri,Pass
+3,ShotOnPost,0.804000015,0.615,0.040148392,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,22-04-2021 20:00,Antoine Griezmann,Pass
+7,Goal,0.859000015,0.627000008,0.229991168,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,22-04-2021 20:00,Sergio Busquets,TakeOn
+15,MissedShots,0.84,0.666999969,0.046224974,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,22-04-2021 20:00,Jordi Alba,Pass
+19,SavedShot,0.786999969,0.352000008,0.024242649,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,22-04-2021 20:00,Frenkie de Jong,None
+90,MissedShots,0.893000031,0.32,0.076765709,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,15080,Barcelona,Getafe,5,2,22-04-2021 20:00,Frenkie de Jong,Pass
+17,SavedShot,0.94,0.696999969,0.043401774,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15096,Villarreal,Barcelona,1,2,25-04-2021 14:15,Jordi Alba,Pass
+56,MissedShots,0.856999969,0.447999992,0.109720141,Lionel Messi,a,2097,OpenPlay,2020,RightFoot,15096,Villarreal,Barcelona,1,2,25-04-2021 14:15,Antoine Griezmann,Pass
+22,Goal,0.935999985,0.653000031,0.290729523,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15101,Barcelona,Granada,1,2,29-04-2021 17:00,Antoine Griezmann,Pass
+25,BlockedShot,0.796999969,0.5,0.059141885,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15101,Barcelona,Granada,1,2,29-04-2021 17:00,Frenkie de Jong,Pass
+28,BlockedShot,0.829000015,0.49,0.087242797,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15101,Barcelona,Granada,1,2,29-04-2021 17:00,Frenkie de Jong,Pass
+35,SavedShot,0.919000015,0.385999985,0.308404684,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15101,Barcelona,Granada,1,2,29-04-2021 17:00,Sergio Busquets,Chipped
+73,BlockedShot,0.761999969,0.487999992,0.027148928,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15101,Barcelona,Granada,1,2,29-04-2021 17:00,Pedri,Pass
+81,BlockedShot,0.916999969,0.565,0.112437338,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15109,Valencia,Barcelona,2,3,02-05-2021 19:00,NA,None
+40,SavedShot,0.855,0.492999992,0.091278426,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15120,Barcelona,Atletico Madrid,0,0,08-05-2021 14:15,Frenkie de Jong,TakeOn
+25,Goal,0.875999985,0.439000015,0.076271981,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15133,Levante,Barcelona,3,3,11-05-2021 20:00,NA,None
+28,MissedShots,0.810999985,0.515,0.102905661,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15133,Levante,Barcelona,3,3,11-05-2021 20:00,Sergio Busquets,TakeOn
+31,BlockedShot,0.800999985,0.500999985,0.062636502,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15133,Levante,Barcelona,3,3,11-05-2021 20:00,Ousmane Dembélé,Pass
+57,BlockedShot,0.875999985,0.472000008,0.127621338,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15133,Levante,Barcelona,3,3,11-05-2021 20:00,Frenkie de Jong,Pass
+9,BlockedShot,0.880999985,0.452000008,0.116396867,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15141,Barcelona,Celta Vigo,1,2,16-05-2021 16:30,Ousmane Dembélé,TakeOn
+16,MissedShots,0.743000031,0.475,0.022857815,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15141,Barcelona,Celta Vigo,1,2,16-05-2021 16:30,Antoine Griezmann,Pass
+18,MissedShots,0.951999969,0.665999985,0.064961873,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15141,Barcelona,Celta Vigo,1,2,16-05-2021 16:30,Antoine Griezmann,Chipped
+27,Goal,0.925,0.437000008,0.301991075,Lionel Messi,h,2097,OpenPlay,2020,Head,15141,Barcelona,Celta Vigo,1,2,16-05-2021 16:30,Sergio Busquets,Chipped
+41,BlockedShot,0.765999985,0.424000015,0.032836854,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15141,Barcelona,Celta Vigo,1,2,16-05-2021 16:30,Antoine Griezmann,TakeOn
+92,MissedShots,0.804000015,0.535,0.043372773,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15141,Barcelona,Celta Vigo,1,2,16-05-2021 16:30,Miralem Pjanic,TakeOn

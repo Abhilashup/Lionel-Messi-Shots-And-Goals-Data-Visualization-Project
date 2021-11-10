@@ -1,0 +1,364 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,year,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32522,22,MissedShots,0.785999985,0.52,0.038670398,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5831,Barcelona,Elche,3,0,24-08-2014 20:00,Rafinha,Pass
+32525,41,Goal,0.861999969,0.615,0.068701506,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5831,Barcelona,Elche,3,0,24-08-2014 20:00,Sergio Busquets,BallRecovery
+32529,62,Goal,0.86,0.435,0.15034306,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5831,Barcelona,Elche,3,0,24-08-2014 20:00,NA,TakeOn
+32769,3,SavedShot,0.818000031,0.38,0.045503296,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5842,Villarreal,Barcelona,0,1,31-08-2014 18:00,Pedro,Pass
+32787,71,BlockedShot,0.885,0.602000008,0.114679076,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5842,Villarreal,Barcelona,0,1,31-08-2014 18:00,Rafinha,Pass
+32788,76,BlockedShot,0.875999985,0.439000015,0.106274523,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5842,Villarreal,Barcelona,0,1,31-08-2014 18:00,Dani Alves,Pass
+32790,81,SavedShot,0.954000015,0.335999985,0.310020328,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5842,Villarreal,Barcelona,0,1,31-08-2014 18:00,NA,None
+32789,81,BlockedShot,0.896999969,0.447000008,0.125717297,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5842,Villarreal,Barcelona,0,1,31-08-2014 18:00,Neymar,Pass
+33012,36,MissedShots,0.895999985,0.532000008,0.041229811,Lionel Messi,h,2097,OpenPlay,2014,Head,5787,Barcelona,Athletic Club,2,0,13-09-2014 15:00,Ivan Rakitic,Aerial
+33013,40,BlockedShot,0.873000031,0.565,0.099425271,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5787,Barcelona,Athletic Club,2,0,13-09-2014 15:00,Munir,Pass
+33697,22,BlockedShot,0.769000015,0.570999985,0.025321772,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5804,Levante,Barcelona,0,5,21-09-2014 20:00,NA,None
+33714,76,Goal,0.86,0.487000008,0.468037456,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5804,Levante,Barcelona,0,5,21-09-2014 20:00,NA,None
+33391,25,MissedShots,0.919000015,0.52,0.106473565,Lionel Messi,a,2097,OpenPlay,2014,OtherBodyPart,5813,Malaga,Barcelona,0,0,24-09-2014 21:00,Jordi Alba,Cross
+35699,61,Goal,0.953000031,0.537999992,0.571601391,Lionel Messi,h,2097,OpenPlay,2014,Head,5818,Barcelona,Granada,6,0,27-09-2014 17:00,Dani Alves,Cross
+35702,77,SavedShot,0.828000031,0.384000015,0.075615123,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5818,Barcelona,Granada,6,0,27-09-2014 17:00,Sergi Roberto,Pass
+35705,81,Goal,0.903000031,0.454000015,0.460050017,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5818,Barcelona,Granada,6,0,27-09-2014 17:00,NA,BallRecovery
+34578,13,SavedShot,0.946999969,0.4,0.31323728,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5756,Rayo Vallecano,Barcelona,0,2,04-10-2014 17:00,Neymar,Chipped
+34580,34,Goal,0.92,0.627000008,0.286970377,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5756,Rayo Vallecano,Barcelona,0,2,04-10-2014 17:00,Gerard Piqué,Chipped
+34591,64,BlockedShot,0.964000015,0.39,0.382415324,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5756,Rayo Vallecano,Barcelona,0,2,04-10-2014 17:00,Jeremy Mathieu,Pass
+34598,81,MissedShots,0.859000015,0.465999985,0.128279686,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5756,Rayo Vallecano,Barcelona,0,2,04-10-2014 17:00,Xavi,Pass
+34600,83,MissedShots,0.933000031,0.41,0.429149896,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5756,Rayo Vallecano,Barcelona,0,2,04-10-2014 17:00,Xavi,Pass
+34606,89,MissedShots,0.923000031,0.567000008,0.496819615,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5756,Rayo Vallecano,Barcelona,0,2,04-10-2014 17:00,Gerard Piqué,Pass
+34605,89,BlockedShot,0.824000015,0.402000008,0.081985831,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5756,Rayo Vallecano,Barcelona,0,2,04-10-2014 17:00,Sergio Busquets,Pass
+35316,19,SavedShot,0.965999985,0.404000015,0.43097356,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5767,Barcelona,Eibar,3,0,18-10-2014 19:00,Dani Alves,Throughball
+35317,24,MissedShots,0.849000015,0.539000015,0.070117116,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5767,Barcelona,Eibar,3,0,18-10-2014 19:00,NA,None
+35322,43,SavedShot,0.878000031,0.499000015,0.057181817,Lionel Messi,h,2097,OpenPlay,2014,Head,5767,Barcelona,Eibar,3,0,18-10-2014 19:00,Pedro,Cross
+35336,73,Goal,0.899000015,0.664000015,0.104207844,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5767,Barcelona,Eibar,3,0,18-10-2014 19:00,Neymar,Pass
+35341,88,SavedShot,0.855,0.442999992,0.071471706,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5767,Barcelona,Eibar,3,0,18-10-2014 19:00,Xavi,TakeOn
+35343,92,SavedShot,0.935,0.485,0.521195471,Lionel Messi,h,2097,OpenPlay,2014,Head,5767,Barcelona,Eibar,3,0,18-10-2014 19:00,Andrés Iniesta,Throughball
+35886,21,SavedShot,0.87,0.577000008,0.109521419,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5776,Real Madrid,Barcelona,3,1,25-10-2014 17:00,Jeremy Mathieu,Pass
+35887,22,SavedShot,0.933000031,0.510999985,0.506177902,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5776,Real Madrid,Barcelona,3,1,25-10-2014 17:00,Luis Suárez,Cross
+33949,29,SavedShot,0.869000015,0.58,0.100766167,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5718,Barcelona,Celta Vigo,0,1,01-11-2014 19:00,Neymar,Pass
+33950,31,BlockedShot,0.903000031,0.607000008,0.385317087,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5718,Barcelona,Celta Vigo,0,1,01-11-2014 19:00,NA,None
+33951,33,MissedShots,0.909000015,0.467000008,0.283725232,Lionel Messi,h,2097,OpenPlay,2014,Head,5718,Barcelona,Celta Vigo,0,1,01-11-2014 19:00,Luis Suárez,Cross
+33960,64,SavedShot,0.944000015,0.675,0.080258012,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5718,Barcelona,Celta Vigo,0,1,01-11-2014 19:00,NA,TakeOn
+34634,8,SavedShot,0.924000015,0.412999992,0.118350357,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5726,Almeria,Barcelona,1,2,08-11-2014 15:00,NA,Rebound
+34633,8,SavedShot,0.951999969,0.417000008,0.087375097,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5726,Almeria,Barcelona,1,2,08-11-2014 15:00,NA,None
+34642,27,ShotOnPost,0.964000015,0.490999985,0.634021521,Lionel Messi,a,2097,OpenPlay,2014,Head,5726,Almeria,Barcelona,1,2,08-11-2014 15:00,Pedro,Rebound
+34652,78,ShotOnPost,0.873000031,0.402000008,0.027184803,Lionel Messi,a,2097,OpenPlay,2014,Head,5726,Almeria,Barcelona,1,2,08-11-2014 15:00,Luis Suárez,Pass
+34654,83,BlockedShot,0.915999985,0.296000004,0.073966905,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5726,Almeria,Barcelona,1,2,08-11-2014 15:00,Ivan Rakitic,BallRecovery
+34656,92,SavedShot,0.875,0.465999985,0.395818532,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5726,Almeria,Barcelona,1,2,08-11-2014 15:00,Luis Suárez,Pass
+35373,7,SavedShot,0.825,0.560999985,0.056149878,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5738,Barcelona,Sevilla,5,1,22-11-2014 19:00,NA,None
+35386,71,Goal,0.976999969,0.462000008,0.971069634,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5738,Barcelona,Sevilla,5,1,22-11-2014 19:00,Neymar,Pass
+35387,77,Goal,0.843000031,0.542000008,0.120275088,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5738,Barcelona,Sevilla,5,1,22-11-2014 19:00,Neymar,LayOff
+35390,88,SavedShot,0.878000031,0.640999985,0.089888446,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5738,Barcelona,Sevilla,5,1,22-11-2014 19:00,Neymar,Pass
+33523,91,BlockedShot,0.911999969,0.66,0.063722879,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5753,Valencia,Barcelona,0,1,30-11-2014 20:00,NA,None
+34250,32,BlockedShot,0.929000015,0.32,0.073087417,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5692,Barcelona,Espanyol,5,1,07-12-2014 16:00,Xavi,TakeOn
+34253,45,Goal,0.794000015,0.582999992,0.036903657,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5692,Barcelona,Espanyol,5,1,07-12-2014 16:00,Xavi,Pass
+34254,49,Goal,0.841999969,0.500999985,0.077379517,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5692,Barcelona,Espanyol,5,1,07-12-2014 16:00,Luis Suárez,TakeOn
+34261,80,Goal,0.895,0.445,0.503035724,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5692,Barcelona,Espanyol,5,1,07-12-2014 16:00,Pedro,Pass
+34902,17,SavedShot,0.901999969,0.464000015,0.163073808,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5698,Getafe,Barcelona,0,0,13-12-2014 15:00,NA,TakeOn
+34913,52,BlockedShot,0.779000015,0.487000008,0.036682885,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5698,Getafe,Barcelona,0,0,13-12-2014 15:00,Luis Suárez,Pass
+34919,68,MissedShots,0.895999985,0.534000015,0.081568956,Lionel Messi,a,2097,OpenPlay,2014,Head,5698,Getafe,Barcelona,0,0,13-12-2014 15:00,Jordi Alba,Cross
+34924,81,BlockedShot,0.811999969,0.502999992,0.052842565,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5698,Getafe,Barcelona,0,0,13-12-2014 15:00,Andrés Iniesta,Pass
+34925,82,BlockedShot,0.855,0.48,0.073200002,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5698,Getafe,Barcelona,0,0,13-12-2014 15:00,NA,None
+35633,36,BlockedShot,0.866999969,0.585,0.105270252,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5708,Barcelona,Cordoba,5,0,20-12-2014 15:00,Luis Suárez,Pass
+35639,48,BlockedShot,0.87,0.597999992,0.090108275,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5708,Barcelona,Cordoba,5,0,20-12-2014 15:00,NA,None
+35647,90,Goal,0.905999985,0.387999992,0.094585501,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5708,Barcelona,Cordoba,5,0,20-12-2014 15:00,NA,None
+37592,70,MissedShots,0.815999985,0.525,0.048288774,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,04-01-2015 20:00,Luis Suárez,Pass
+38269,8,MissedShots,0.933000031,0.317999992,0.086751297,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5660,Barcelona,Atletico Madrid,3,1,11-01-2015 20:00,Neymar,TakeOn
+38278,28,SavedShot,0.965999985,0.347000008,0.160716906,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5660,Barcelona,Atletico Madrid,3,1,11-01-2015 20:00,Neymar,TakeOn
+38280,41,MissedShots,0.873000031,0.505999985,0.049807284,Lionel Messi,h,2097,OpenPlay,2014,Head,5660,Barcelona,Atletico Madrid,3,1,11-01-2015 20:00,Dani Alves,Chipped
+38285,63,BlockedShot,0.895,0.527999992,0.139868572,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5660,Barcelona,Atletico Madrid,3,1,11-01-2015 20:00,NA,Rebound
+38288,83,SavedShot,0.818000031,0.447000008,0.071239918,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5660,Barcelona,Atletico Madrid,3,1,11-01-2015 20:00,NA,None
+38290,86,Goal,0.93,0.464000015,0.573111594,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5660,Barcelona,Atletico Madrid,3,1,11-01-2015 20:00,NA,None
+37502,9,Goal,0.881999969,0.579000015,0.039577737,Lionel Messi,a,2097,OpenPlay,2014,Head,5669,Deportivo La Coruna,Barcelona,0,4,18-01-2015 18:00,Ivan Rakitic,Chipped
+37506,32,Goal,0.954000015,0.547999992,0.934758902,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5669,Deportivo La Coruna,Barcelona,0,4,18-01-2015 18:00,Luis Suárez,TakeOn
+37508,34,MissedShots,0.899000015,0.344000015,0.089375287,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5669,Deportivo La Coruna,Barcelona,0,4,18-01-2015 18:00,Sergio Busquets,Pass
+37519,76,BlockedShot,0.906999969,0.504000015,0.135192841,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5669,Deportivo La Coruna,Barcelona,0,4,18-01-2015 18:00,Luis Suárez,Cross
+37974,87,Goal,0.875,0.617999992,0.091912821,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5673,Elche,Barcelona,0,6,24-01-2015 17:00,Marc Bartra,Pass
+40868,52,BlockedShot,0.93,0.515,0.061942469,Lionel Messi,h,2097,OpenPlay,2014,Head,5605,Barcelona,Villarreal,3,2,01-02-2015 20:00,NA,None
+40870,54,Goal,0.815,0.489000015,0.063967481,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5605,Barcelona,Villarreal,3,2,01-02-2015 20:00,Luis Suárez,Pass
+41172,43,BlockedShot,0.825999985,0.445,0.097063787,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5616,Athletic Club,Barcelona,2,5,08-02-2015 20:00,Dani Alves,TakeOn
+41180,59,MissedShots,0.871999969,0.570999985,0.115068063,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5616,Athletic Club,Barcelona,2,5,08-02-2015 20:00,Neymar,Pass
+41183,61,MissedShots,0.971999969,0.534000015,0.635838389,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5616,Athletic Club,Barcelona,2,5,08-02-2015 20:00,Luis Suárez,Cross
+41080,6,MissedShots,0.844000015,0.487000008,0.128231123,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5624,Barcelona,Levante,5,0,15-02-2015 16:00,Neymar,TakeOn
+41087,33,SavedShot,0.87,0.33,0.068670288,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5624,Barcelona,Levante,5,0,15-02-2015 16:00,Ivan Rakitic,Pass
+41088,37,Goal,0.903000031,0.382000008,0.371455461,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5624,Barcelona,Levante,5,0,15-02-2015 16:00,Marc Bartra,Pass
+41090,40,MissedShots,0.891999969,0.555,0.139892995,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5624,Barcelona,Levante,5,0,15-02-2015 16:00,Neymar,Pass
+41091,44,MissedShots,0.96,0.325,0.09791173,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5624,Barcelona,Levante,5,0,15-02-2015 16:00,Xavi,Chipped
+41094,58,Goal,0.92,0.500999985,0.56679678,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5624,Barcelona,Levante,5,0,15-02-2015 16:00,Pedro,Pass
+41098,85,SavedShot,0.824000015,0.447000008,0.061971322,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5624,Barcelona,Levante,5,0,15-02-2015 16:00,NA,None
+40201,35,MissedShots,0.883000031,0.402000008,0.108873174,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5639,Granada,Barcelona,1,3,28-02-2015 15:00,Ivan Rakitic,Pass
+40205,45,SavedShot,0.949000015,0.507000008,0.625484765,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5639,Granada,Barcelona,1,3,28-02-2015 15:00,NA,None
+40210,69,Goal,0.916999969,0.490999985,0.563337862,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5639,Granada,Barcelona,1,3,28-02-2015 15:00,Luis Suárez,Pass
+40214,80,MissedShots,0.933000031,0.405999985,0.141025916,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5639,Granada,Barcelona,1,3,28-02-2015 15:00,Neymar,Pass
+40216,86,SavedShot,0.97,0.417000008,0.539605379,Lionel Messi,a,2097,OpenPlay,2014,RightFoot,5639,Granada,Barcelona,1,3,28-02-2015 15:00,Neymar,Pass
+40542,31,MissedShots,0.913000031,0.355999985,0.087013096,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5576,Barcelona,Rayo Vallecano,6,1,08-03-2015 11:00,Luis Suárez,Chipped
+40548,62,Goal,0.949000015,0.489000015,0.548291087,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5576,Barcelona,Rayo Vallecano,6,1,08-03-2015 11:00,NA,Aerial
+40551,67,Goal,0.971999969,0.585,0.737596929,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5576,Barcelona,Rayo Vallecano,6,1,08-03-2015 11:00,Pedro,TakeOn
+40556,86,MissedShots,0.995999985,0.404000015,0.281642526,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5576,Barcelona,Rayo Vallecano,6,1,08-03-2015 11:00,Luis Suárez,Pass
+40237,1,BlockedShot,0.905,0.507000008,0.101073474,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5583,Eibar,Barcelona,0,2,14-03-2015 17:00,Rafinha,Cross
+40241,29,BlockedShot,0.865,0.482999992,0.10471566,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5583,Eibar,Barcelona,0,2,14-03-2015 17:00,Luis Suárez,Pass
+40145,16,MissedShots,0.9,0.509000015,0.102311648,Lionel Messi,h,2097,OpenPlay,2014,Head,5600,Barcelona,Real Madrid,2,1,22-03-2015 23:00,Neymar,Cross
+40163,72,MissedShots,0.794000015,0.475,0.04804454,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,22-03-2015 23:00,Dani Alves,Pass
+40165,76,BlockedShot,0.906999969,0.625,0.109381959,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,22-03-2015 23:00,Neymar,Pass
+40170,86,SavedShot,0.875,0.607999992,0.098045662,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,22-03-2015 23:00,Jordi Alba,Pass
+38650,12,SavedShot,0.841999969,0.507000008,0.084790736,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5513,Celta Vigo,Barcelona,0,1,05-04-2015 20:00,Dani Alves,Pass
+38656,53,MissedShots,0.941999969,0.55,0.138761982,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5513,Celta Vigo,Barcelona,0,1,05-04-2015 20:00,Luis Suárez,Pass
+38660,61,BlockedShot,0.855999985,0.535999985,0.095968664,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5513,Celta Vigo,Barcelona,0,1,05-04-2015 20:00,Neymar,Pass
+38667,90,MissedShots,0.889000015,0.560999985,0.422360152,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5513,Celta Vigo,Barcelona,0,1,05-04-2015 20:00,Ivan Rakitic,Pass
+38926,12,SavedShot,0.860999985,0.439000015,0.019968342,Lionel Messi,h,2097,OpenPlay,2014,Head,5518,Barcelona,Almeria,4,0,08-04-2015 19:00,Dani Alves,Cross
+38933,32,Goal,0.858000031,0.302000008,0.036058314,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5518,Barcelona,Almeria,4,0,08-04-2015 19:00,Marc Bartra,TakeOn
+39160,8,BlockedShot,0.751999969,0.47,0.025686933,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5527,Sevilla,Barcelona,2,2,11-04-2015 19:00,Sergio Busquets,Pass
+39162,9,BlockedShot,0.874000015,0.625,0.087307267,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5527,Sevilla,Barcelona,2,2,11-04-2015 19:00,Neymar,Pass
+39164,13,Goal,0.875999985,0.39,0.088784106,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5527,Sevilla,Barcelona,2,2,11-04-2015 19:00,Neymar,Pass
+39178,60,BlockedShot,0.835999985,0.579000015,0.084293462,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5527,Sevilla,Barcelona,2,2,11-04-2015 19:00,Neymar,Pass
+39416,39,MissedShots,0.923000031,0.420999985,0.405151725,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5536,Barcelona,Valencia,2,0,18-04-2015 15:00,Xavi,HeadPass
+39426,93,Goal,0.915999985,0.497999992,0.611923933,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5536,Barcelona,Valencia,2,0,18-04-2015 15:00,NA,Rebound
+39425,93,SavedShot,0.863000031,0.512999992,0.359317452,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5536,Barcelona,Valencia,2,0,18-04-2015 15:00,Neymar,Pass
+36218,24,Goal,0.975999985,0.569000015,0.604937673,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5546,Espanyol,Barcelona,0,2,25-04-2015 15:00,Luis Suárez,Pass
+36223,56,BlockedShot,0.888000031,0.645,0.114311725,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5546,Espanyol,Barcelona,0,2,25-04-2015 15:00,Luis Suárez,TakeOn
+36230,76,BlockedShot,0.908000031,0.474000015,0.143355966,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5546,Espanyol,Barcelona,0,2,25-04-2015 15:00,Neymar,Throughball
+36657,19,MissedShots,0.838000031,0.404000015,0.070661142,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5555,Barcelona,Getafe,6,0,28-04-2015 19:00,Dani Alves,Pass
+36668,46,Goal,0.893000031,0.317999992,0.092283025,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5555,Barcelona,Getafe,6,0,28-04-2015 19:00,Luis Suárez,Chipped
+36674,71,SavedShot,0.963000031,0.650999985,0.281942844,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5555,Barcelona,Getafe,6,0,28-04-2015 19:00,Luis Suárez,TakeOn
+37142,11,BlockedShot,0.911999969,0.505,0.1332957,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5466,Cordoba,Barcelona,0,8,02-05-2015 15:00,Ivan Rakitic,Pass
+37143,21,BlockedShot,0.788000031,0.437000008,0.052686419,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5466,Cordoba,Barcelona,0,8,02-05-2015 15:00,Luis Suárez,LayOff
+37146,26,SavedShot,0.881999969,0.485,0.366634697,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5466,Cordoba,Barcelona,0,8,02-05-2015 15:00,Javier Mascherano,TakeOn
+37154,45,Goal,0.875999985,0.475999985,0.051100668,Lionel Messi,a,2097,OpenPlay,2014,Head,5466,Cordoba,Barcelona,0,8,02-05-2015 15:00,Dani Alves,Cross
+37163,67,MissedShots,0.815999985,0.492999992,0.087000027,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5466,Cordoba,Barcelona,0,8,02-05-2015 15:00,Neymar,Pass
+37167,77,MissedShots,0.916999969,0.494000015,0.429311514,Lionel Messi,a,2097,OpenPlay,2014,Head,5466,Cordoba,Barcelona,0,8,02-05-2015 15:00,Pedro,Cross
+37168,79,Goal,0.960999985,0.527999992,0.780863464,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5466,Cordoba,Barcelona,0,8,02-05-2015 15:00,Luis Suárez,Pass
+37406,7,SavedShot,0.854000015,0.499000015,0.022476228,Lionel Messi,h,2097,OpenPlay,2014,Head,5477,Barcelona,Real Sociedad,2,0,09-05-2015 17:00,Dani Alves,Cross
+37418,69,BlockedShot,0.84,0.509000015,0.078735709,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5477,Barcelona,Real Sociedad,2,0,09-05-2015 17:00,Xavi,HeadPass
+37420,84,SavedShot,0.829000015,0.537999992,0.116152376,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5477,Barcelona,Real Sociedad,2,0,09-05-2015 17:00,Neymar,Pass
+37422,86,MissedShots,0.845999985,0.479000015,0.116206512,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5477,Barcelona,Real Sociedad,2,0,09-05-2015 17:00,Neymar,Pass
+36428,11,SavedShot,0.855999985,0.625,0.07081148,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5488,Atletico Madrid,Barcelona,0,1,17-05-2015 18:00,Neymar,Pass
+36429,12,SavedShot,0.903000031,0.52,0.265544087,Lionel Messi,a,2097,OpenPlay,2014,Head,5488,Atletico Madrid,Barcelona,0,1,17-05-2015 18:00,Dani Alves,Cross
+36431,17,MissedShots,0.798000031,0.61,0.036792252,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5488,Atletico Madrid,Barcelona,0,1,17-05-2015 18:00,Neymar,Pass
+36432,19,BlockedShot,0.9,0.525999985,0.107372418,Lionel Messi,a,2097,OpenPlay,2014,Head,5488,Atletico Madrid,Barcelona,0,1,17-05-2015 18:00,Pedro,Cross
+36442,64,Goal,0.895999985,0.587999992,0.114332475,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5488,Atletico Madrid,Barcelona,0,1,17-05-2015 18:00,Pedro,Pass
+36893,4,Goal,0.935999985,0.524000015,0.436000735,Lionel Messi,h,2097,OpenPlay,2014,Head,5496,Barcelona,Deportivo La Coruna,2,2,23-05-2015 17:30,Rafinha,Chipped
+36894,14,SavedShot,0.865999985,0.515,0.035014767,Lionel Messi,h,2097,OpenPlay,2014,Head,5496,Barcelona,Deportivo La Coruna,2,2,23-05-2015 17:30,NA,None
+36895,16,SavedShot,0.795,0.46,0.053558342,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,23-05-2015 17:30,Neymar,Pass
+36908,58,Goal,0.920999985,0.425,0.485850751,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,23-05-2015 17:30,Neymar,Pass
+84071,86,SavedShot,0.863000031,0.532000008,0.093498155,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1404,Athletic Club,Barcelona,0,1,23-08-2015 20:30,Ivan Rakitic,TakeOn
+84295,13,BlockedShot,0.804000015,0.38,0.03395211,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1411,Barcelona,Malaga,1,0,29-08-2015 22:30,Neymar,Pass
+84305,51,SavedShot,0.885,0.557000008,0.113445856,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1411,Barcelona,Malaga,1,0,29-08-2015 22:30,Neymar,Pass
+84307,57,SavedShot,0.861999969,0.316000004,0.045233227,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1411,Barcelona,Malaga,1,0,29-08-2015 22:30,Andrés Iniesta,Pass
+84312,69,SavedShot,0.754000015,0.492999992,0.024155186,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1411,Barcelona,Malaga,1,0,29-08-2015 22:30,Rafinha,Pass
+84318,83,SavedShot,0.895999985,0.645,0.087477371,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1411,Barcelona,Malaga,1,0,29-08-2015 22:30,Neymar,Pass
+84529,76,Goal,0.921999969,0.575,0.47439003,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1422,Atletico Madrid,Barcelona,1,2,12-09-2015 22:30,Luis Suárez,Pass
+84532,85,MissedShots,0.806999969,0.519000015,0.069212496,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1422,Atletico Madrid,Barcelona,1,2,12-09-2015 22:30,Neymar,Pass
+85346,14,BlockedShot,0.849000015,0.723000031,0.064032078,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1437,Barcelona,Levante,4,1,20-09-2015 22:30,Adriano,TakeOn
+85348,14,SavedShot,0.89,0.465999985,0.122426018,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1437,Barcelona,Levante,4,1,20-09-2015 22:30,Sandro Ramírez,Pass
+85347,14,BlockedShot,0.825999985,0.515,0.080313019,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1437,Barcelona,Levante,4,1,20-09-2015 22:30,Munir,TakeOn
+85355,35,SavedShot,0.815999985,0.630999985,0.057543486,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1437,Barcelona,Levante,4,1,20-09-2015 22:30,Sandro Ramírez,LayOff
+85358,38,MissedShots,0.875999985,0.547999992,0.041417528,Lionel Messi,h,2097,OpenPlay,2015,Head,1437,Barcelona,Levante,4,1,20-09-2015 22:30,Dani Alves,Cross
+85374,89,Goal,0.859000015,0.500999985,0.110564478,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1437,Barcelona,Levante,4,1,20-09-2015 22:30,Marc Bartra,Pass
+84856,10,SavedShot,0.9,0.688000031,0.043611147,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1443,Celta Vigo,Barcelona,4,1,23-09-2015 22:00,Andrés Iniesta,Pass
+84860,20,BlockedShot,0.769000015,0.570999985,0.025450654,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1443,Celta Vigo,Barcelona,4,1,23-09-2015 22:00,Neymar,Pass
+84861,21,BlockedShot,0.85,0.499000015,0.079080701,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1443,Celta Vigo,Barcelona,4,1,23-09-2015 22:00,Dani Alves,TakeOn
+84870,52,ShotOnPost,0.879000015,0.472000008,0.331760973,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1443,Celta Vigo,Barcelona,4,1,23-09-2015 22:00,Andrés Iniesta,Pass
+84872,55,SavedShot,0.86,0.653000031,0.065305054,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1443,Celta Vigo,Barcelona,4,1,23-09-2015 22:00,Neymar,Pass
+84887,87,SavedShot,0.885,0.387999992,0.089210965,Lionel Messi,a,2097,OpenPlay,2015,RightFoot,1443,Celta Vigo,Barcelona,4,1,23-09-2015 22:00,Neymar,Pass
+85483,2,BlockedShot,0.975,0.402999992,0.140492454,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1450,Barcelona,Las Palmas,2,1,26-09-2015 18:00,Marc Bartra,TakeOn
+86762,65,BlockedShot,0.879000015,0.580999985,0.130210176,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,21-11-2015 21:15,Neymar,Pass
+87821,58,MissedShots,0.855999985,0.6,0.085141666,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1520,Barcelona,Real Sociedad,4,0,28-11-2015 19:00,Neymar,Cross
+87822,59,SavedShot,0.888000031,0.552999992,0.135010317,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1520,Barcelona,Real Sociedad,4,0,28-11-2015 19:00,Neymar,Pass
+87831,86,ShotOnPost,0.869000015,0.320999985,0.101484865,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1520,Barcelona,Real Sociedad,4,0,28-11-2015 19:00,Neymar,Pass
+87832,87,BlockedShot,0.861999969,0.572000008,0.123180903,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1520,Barcelona,Real Sociedad,4,0,28-11-2015 19:00,Neymar,Pass
+87833,90,Goal,0.959000015,0.467999992,0.711739302,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1520,Barcelona,Real Sociedad,4,0,28-11-2015 19:00,Neymar,Pass
+88545,4,MissedShots,0.921999969,0.497000008,0.395677865,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1531,Valencia,Barcelona,1,1,05-12-2015 23:30,Neymar,Cross
+88548,9,BlockedShot,0.888000031,0.534000015,0.119071893,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1531,Valencia,Barcelona,1,1,05-12-2015 23:30,Neymar,Pass
+88550,23,BlockedShot,0.781999969,0.365,0.024896482,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1531,Valencia,Barcelona,1,1,05-12-2015 23:30,Dani Alves,Pass
+88552,25,SavedShot,0.915999985,0.585,0.43681711,Lionel Messi,a,2097,OpenPlay,2015,RightFoot,1531,Valencia,Barcelona,1,1,05-12-2015 23:30,Neymar,Pass
+88556,46,MissedShots,0.749000015,0.497000008,0.018873502,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1531,Valencia,Barcelona,1,1,05-12-2015 23:30,NA,None
+88568,90,SavedShot,0.821999969,0.54,0.067700051,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1531,Valencia,Barcelona,1,1,05-12-2015 23:30,Luis Suárez,Pass
+87894,26,MissedShots,0.849000015,0.602000008,0.072244376,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1540,Barcelona,Deportivo La Coruna,2,2,12-12-2015 19:00,Jordi Alba,Pass
+87896,30,SavedShot,0.769000015,0.292000008,0.020695643,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1540,Barcelona,Deportivo La Coruna,2,2,12-12-2015 19:00,Andrés Iniesta,Pass
+87909,66,BlockedShot,0.811999969,0.55,0.071483999,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1540,Barcelona,Deportivo La Coruna,2,2,12-12-2015 19:00,Ivan Rakitic,TakeOn
+86945,32,Goal,0.926999969,0.507000008,0.580598295,Lionel Messi,h,2097,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,30-12-2015 23:30,Neymar,Pass
+86950,60,BlockedShot,0.89,0.545999985,0.139544204,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,30-12-2015 23:30,Neymar,Pass
+86952,61,SavedShot,0.9,0.615999985,0.442975104,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,30-12-2015 23:30,NA,None
+86960,73,ShotOnPost,0.785999985,0.494000015,0.053124949,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,30-12-2015 23:30,NA,Foul
+88157,50,BlockedShot,0.89,0.645,0.073413387,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1568,Espanyol,Barcelona,0,0,02-01-2016 19:00,NA,BallTouch
+88160,63,SavedShot,0.805,0.420999985,0.042821556,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1568,Espanyol,Barcelona,0,0,02-01-2016 19:00,Neymar,Pass
+87526,7,Goal,0.946999969,0.569000015,0.531675339,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1578,Barcelona,Granada,4,0,09-01-2016 19:00,Arda Turan,Throughball
+87527,13,Goal,0.980999985,0.575,0.548697174,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1578,Barcelona,Granada,4,0,09-01-2016 19:00,Luis Suárez,Pass
+87530,30,SavedShot,0.900999985,0.464000015,0.521193147,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1578,Barcelona,Granada,4,0,09-01-2016 19:00,Aleix Vidal,Pass
+87541,57,Goal,0.93,0.502999992,0.601976395,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1578,Barcelona,Granada,4,0,09-01-2016 19:00,NA,Rebound
+88672,34,MissedShots,0.89,0.465999985,0.136926159,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1596,Barcelona,Athletic Club,6,0,17-01-2016 23:30,Neymar,Pass
+88933,43,BlockedShot,0.941999969,0.485,0.621432543,Lionel Messi,a,2097,OpenPlay,2015,RightFoot,1599,Malaga,Barcelona,1,2,23-01-2016 19:00,NA,Rebound
+88936,50,Goal,0.935,0.447000008,0.430864304,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1599,Malaga,Barcelona,1,2,23-01-2016 19:00,Adriano,Cross
+88942,80,MissedShots,0.918000031,0.349000015,0.078310177,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1599,Malaga,Barcelona,1,2,23-01-2016 19:00,Sergio Busquets,Chipped
+89145,29,Goal,0.915999985,0.572000008,0.460593253,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,30-01-2016 19:00,Jordi Alba,Pass
+89221,47,SavedShot,0.795,0.585,0.047178816,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1623,Levante,Barcelona,0,2,07-02-2016 15:00,Luis Suárez,Pass
+89450,29,SavedShot,0.835999985,0.502999992,0.084001042,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1637,Barcelona,Celta Vigo,6,1,14-02-2016 23:30,NA,None
+87324,24,Goal,0.748000031,0.492999992,0.023992872,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1638,Sporting Gijon,Barcelona,1,3,17-02-2016 21:30,Luis Suárez,Pass
+87327,30,Goal,0.890999985,0.397000008,0.09657231,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1638,Sporting Gijon,Barcelona,1,3,17-02-2016 21:30,Luis Suárez,Pass
+87328,32,SavedShot,0.859000015,0.485,0.113891527,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1638,Sporting Gijon,Barcelona,1,3,17-02-2016 21:30,Luis Suárez,Pass
+89806,14,SavedShot,0.95,0.599000015,0.306457043,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1640,Las Palmas,Barcelona,1,2,20-02-2016 19:00,Andrés Iniesta,Chipped
+89812,38,SavedShot,0.943000031,0.477999992,0.580230117,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1640,Las Palmas,Barcelona,1,2,20-02-2016 19:00,NA,None
+89815,41,BlockedShot,0.895999985,0.535999985,0.134070456,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1640,Las Palmas,Barcelona,1,2,20-02-2016 19:00,Luis Suárez,Pass
+90027,36,SavedShot,0.893000031,0.668000031,0.059159078,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1658,Barcelona,Sevilla,2,1,28-02-2016 23:30,Arda Turan,None
+90028,42,BlockedShot,0.873000031,0.597999992,0.087600812,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1658,Barcelona,Sevilla,2,1,28-02-2016 23:30,Neymar,Pass
+90029,43,BlockedShot,0.870999985,0.286000004,0.035951957,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1658,Barcelona,Sevilla,2,1,28-02-2016 23:30,Luis Suárez,Pass
+90033,51,BlockedShot,0.883000031,0.525999985,0.130739897,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1658,Barcelona,Sevilla,2,1,28-02-2016 23:30,Neymar,Pass
+90042,75,MissedShots,0.89,0.66,0.078130938,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1658,Barcelona,Sevilla,2,1,28-02-2016 23:30,Neymar,Pass
+90253,20,SavedShot,0.923000031,0.635999985,0.095229447,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1668,Rayo Vallecano,Barcelona,1,5,04-03-2016 00:00,Neymar,Pass
+90255,22,Goal,0.895999985,0.567000008,0.566271663,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1668,Rayo Vallecano,Barcelona,1,5,04-03-2016 00:00,Neymar,Pass
+90265,52,Goal,0.919000015,0.512999992,0.573500514,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1668,Rayo Vallecano,Barcelona,1,5,04-03-2016 00:00,NA,Rebound
+90269,63,MissedShots,0.843000031,0.577999992,0.102673702,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1668,Rayo Vallecano,Barcelona,1,5,04-03-2016 00:00,Jeremy Mathieu,Pass
+90273,71,Goal,0.873000031,0.490999985,0.31531328,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1668,Rayo Vallecano,Barcelona,1,5,04-03-2016 00:00,Sergio Busquets,Pass
+90726,41,Goal,0.869000015,0.602000008,0.104219392,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1674,Eibar,Barcelona,0,4,06-03-2016 19:00,Munir,Pass
+90727,54,BlockedShot,0.911999969,0.645,0.085117266,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1674,Eibar,Barcelona,0,4,06-03-2016 19:00,NA,None
+92103,26,BlockedShot,0.899000015,0.324000015,0.080275558,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1680,Barcelona,Getafe,6,0,12-03-2016 19:00,Andrés Iniesta,Pass
+92107,39,Goal,0.773000031,0.500999985,0.062198088,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1680,Barcelona,Getafe,6,0,12-03-2016 19:00,Arda Turan,TakeOn
+92113,62,MissedShots,0.896999969,0.645,0.120292507,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1680,Barcelona,Getafe,6,0,12-03-2016 19:00,Neymar,TakeOn
+91496,12,BlockedShot,0.779000015,0.499000015,0.034522418,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1696,Villarreal,Barcelona,2,2,20-03-2016 19:00,Neymar,Pass
+91497,14,MissedShots,0.800999985,0.252000008,0.02073133,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1696,Villarreal,Barcelona,2,2,20-03-2016 19:00,Sergi Roberto,Pass
+91503,43,SavedShot,0.811999969,0.520999985,0.08000017,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1696,Villarreal,Barcelona,2,2,20-03-2016 19:00,Neymar,Pass
+91505,50,BlockedShot,0.811999969,0.634000015,0.05244334,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1696,Villarreal,Barcelona,2,2,20-03-2016 19:00,Neymar,Pass
+91566,53,SavedShot,0.849000015,0.535999985,0.087826617,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1702,Barcelona,Real Madrid,1,2,02-04-2016 22:30,Luis Suárez,Pass
+91086,29,BlockedShot,0.758000031,0.45,0.026179837,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1712,Real Sociedad,Barcelona,1,0,09-04-2016 22:30,Sergi Roberto,Pass
+91093,72,SavedShot,0.915999985,0.492999992,0.516168296,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1712,Real Sociedad,Barcelona,1,0,09-04-2016 22:30,Gerard Piqué,Pass
+91094,77,BlockedShot,0.765,0.487000008,0.025277106,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1712,Real Sociedad,Barcelona,1,0,09-04-2016 22:30,Ivan Rakitic,Pass
+91096,85,SavedShot,0.86,0.47,0.020292595,Lionel Messi,a,2097,OpenPlay,2015,Head,1712,Real Sociedad,Barcelona,1,0,09-04-2016 22:30,Dani Alves,Pass
+91098,90,BlockedShot,0.820999985,0.579000015,0.047693644,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1712,Real Sociedad,Barcelona,1,0,09-04-2016 22:30,NA,Rebound
+90670,6,SavedShot,0.933000031,0.412000008,0.319384605,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1728,Barcelona,Valencia,1,2,17-04-2016 22:30,Luis Suárez,Chipped
+90676,24,SavedShot,0.805999985,0.510999985,0.084935918,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1728,Barcelona,Valencia,1,2,17-04-2016 22:30,Neymar,Pass
+90685,50,BlockedShot,0.891999969,0.355,0.072866887,Lionel Messi,h,2097,OpenPlay,2015,RightFoot,1728,Barcelona,Valencia,1,2,17-04-2016 22:30,Ivan Rakitic,TakeOn
+90688,62,Goal,0.889000015,0.522000008,0.354825348,Lionel Messi,h,2097,OpenPlay,2015,RightFoot,1728,Barcelona,Valencia,1,2,17-04-2016 22:30,Jordi Alba,Pass
+91916,10,SavedShot,0.865999985,0.59,0.090264887,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,20-04-2016 22:00,Luis Suárez,Pass
+91918,15,BlockedShot,0.861999969,0.464000015,0.137384459,Lionel Messi,a,2097,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,20-04-2016 22:00,Neymar,Pass
+91928,35,BlockedShot,0.849000015,0.614000015,0.109896913,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,20-04-2016 22:00,Neymar,Pass
+91940,72,Goal,0.874000015,0.490999985,0.466623664,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,20-04-2016 22:00,Luis Suárez,Pass
+92466,2,MissedShots,0.95,0.484000015,0.587541163,Lionel Messi,h,2097,OpenPlay,2015,Head,1742,Barcelona,Sporting Gijon,6,0,23-04-2016 22:30,Sergi Roberto,Cross
+92469,11,Goal,0.849000015,0.48,0.207759351,Lionel Messi,h,2097,OpenPlay,2015,Head,1742,Barcelona,Sporting Gijon,6,0,23-04-2016 22:30,NA,None
+92470,15,SavedShot,0.895999985,0.610999985,0.087017268,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1742,Barcelona,Sporting Gijon,6,0,23-04-2016 22:30,Luis Suárez,HeadPass
+92479,50,MissedShots,0.763000031,0.592999992,0.031812824,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1742,Barcelona,Sporting Gijon,6,0,23-04-2016 22:30,Javier Mascherano,Pass
+92482,55,MissedShots,0.850999985,0.504000015,0.118798912,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1742,Barcelona,Sporting Gijon,6,0,23-04-2016 22:30,Ivan Rakitic,TakeOn
+92489,71,BlockedShot,0.929000015,0.587000008,0.474870056,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1742,Barcelona,Sporting Gijon,6,0,23-04-2016 22:30,Neymar,Pass
+92302,53,BlockedShot,0.854000015,0.565999985,0.09986116,Lionel Messi,a,2097,OpenPlay,2015,RightFoot,1752,Real Betis,Barcelona,0,2,30-04-2016 22:30,Neymar,Pass
+92303,56,BlockedShot,0.875999985,0.460999985,0.060726468,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1752,Real Betis,Barcelona,0,2,30-04-2016 22:30,NA,Aerial
+93016,9,SavedShot,0.973000031,0.405999985,0.392719716,Lionel Messi,h,2097,OpenPlay,2015,RightFoot,1767,Barcelona,Espanyol,5,0,08-05-2016 19:00,NA,Rebound
+93023,32,BlockedShot,0.845999985,0.547999992,0.097643271,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1767,Barcelona,Espanyol,5,0,08-05-2016 19:00,Luis Suárez,Pass
+93029,84,MissedShots,0.871999969,0.66,0.078834228,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1767,Barcelona,Espanyol,5,0,08-05-2016 19:00,Neymar,Pass
+92661,9,SavedShot,0.795999985,0.530999985,0.041974299,Lionel Messi,a,2097,OpenPlay,2015,RightFoot,1771,Granada,Barcelona,0,3,14-05-2016 19:00,Neymar,Pass
+92676,87,SavedShot,0.965999985,0.54,0.160315618,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1771,Granada,Barcelona,0,3,14-05-2016 19:00,Neymar,Pass
+135276,29,ShotOnPost,0.901999969,0.6,0.099346444,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,NA,Rebound
+135275,29,BlockedShot,0.875999985,0.637000008,0.081683569,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Jordi Alba,Pass
+135277,36,Goal,0.784000015,0.452000008,0.036401663,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Sergi Roberto,Pass
+135282,47,MissedShots,0.809000015,0.517999992,0.086653292,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Jordi Alba,TakeOn
+135284,49,SavedShot,0.815,0.524000015,0.081580788,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Arda Turan,Pass
+135283,49,SavedShot,0.815999985,0.499000015,0.08749292,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Denis Suárez,Pass
+135290,56,Goal,0.800999985,0.552999992,0.087273523,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Arda Turan,TakeOn
+135294,74,SavedShot,0.888000031,0.604000015,0.12515834,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Munir,Pass
+135302,90,BlockedShot,0.905999985,0.643000031,0.083408624,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1781,Barcelona,Real Betis,6,2,20-08-2016 20:15,Sergi Roberto,Cross
+135393,53,MissedShots,0.849000015,0.567000008,0.099962629,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,1797,Athletic Club,Barcelona,0,1,28-08-2016 22:15,Luis Suárez,Pass
+135398,69,MissedShots,0.85,0.5,0.090190493,Lionel Messi,a,2097,OpenPlay,2016,RightFoot,1797,Athletic Club,Barcelona,0,1,28-08-2016 22:15,Luis Suárez,TakeOn
+135621,93,MissedShots,0.915,0.584000015,0.108575799,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1804,Barcelona,Alaves,1,2,10-09-2016 22:30,Lucas Digne,Pass
+135817,13,BlockedShot,0.885999985,0.544000015,0.116426975,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,1810,Leganes,Barcelona,1,5,17-09-2016 15:00,Neymar,Pass
+135818,14,Goal,0.898000031,0.415,0.460024476,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,1810,Leganes,Barcelona,1,5,17-09-2016 15:00,Luis Suárez,Pass
+135831,58,SavedShot,0.975999985,0.645999985,0.098512813,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,1810,Leganes,Barcelona,1,5,17-09-2016 15:00,Javier Mascherano,Chipped
+135833,62,SavedShot,0.859000015,0.502999992,0.129791006,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,1810,Leganes,Barcelona,1,5,17-09-2016 15:00,Neymar,Pass
+136063,3,BlockedShot,0.865,0.392000008,0.07985796,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,22-09-2016 00:00,Luis Suárez,Pass
+136065,13,SavedShot,0.750999985,0.454000015,0.01877192,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,22-09-2016 00:00,NA,None
+136069,24,BlockedShot,0.853000031,0.315,0.046384435,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,22-09-2016 00:00,Sergi Roberto,Pass
+136074,44,SavedShot,0.85,0.615,0.083508521,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,22-09-2016 00:00,Luis Suárez,Pass
+136076,45,BlockedShot,0.855999985,0.375999985,0.082636617,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,22-09-2016 00:00,Neymar,Pass
+136858,57,Goal,0.929000015,0.632999992,0.133220881,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1851,Barcelona,Deportivo La Coruna,4,0,15-10-2016 18:15,Neymar,Throughball
+136859,60,BlockedShot,0.823000031,0.475999985,0.107639633,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1851,Barcelona,Deportivo La Coruna,4,0,15-10-2016 18:15,Neymar,Pass
+136867,82,SavedShot,0.798000031,0.615,0.054813817,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1851,Barcelona,Deportivo La Coruna,4,0,15-10-2016 18:15,Denis Suárez,Pass
+137353,21,Goal,0.850999985,0.357999992,0.063385122,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,1861,Valencia,Barcelona,2,3,22-10-2016 18:15,Ivan Rakitic,Pass
+137354,30,SavedShot,0.926999969,0.643000031,0.101481199,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,1861,Valencia,Barcelona,2,3,22-10-2016 18:15,Luis Suárez,Pass
+137238,6,MissedShots,0.863000031,0.474000015,0.107276432,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,3312,Barcelona,Granada,1,0,29-10-2016 22:45,Neymar,Pass
+137253,88,MissedShots,0.873000031,0.552999992,0.134832621,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3312,Barcelona,Granada,1,0,29-10-2016 22:45,Paco Alcácer,Throughball
+137385,36,MissedShots,0.785,0.685,0.023388043,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,2785,Sevilla,Barcelona,1,2,06-11-2016 23:45,Neymar,Pass
+137387,42,Goal,0.813000031,0.522000008,0.052230049,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,2785,Sevilla,Barcelona,1,2,06-11-2016 23:45,Neymar,Pass
+137390,51,BlockedShot,0.856999969,0.609000015,0.100573651,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,2785,Sevilla,Barcelona,1,2,06-11-2016 23:45,Luis Suárez,Pass
+137391,53,SavedShot,0.848000031,0.449000015,0.079910345,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,2785,Sevilla,Barcelona,1,2,06-11-2016 23:45,Luis Suárez,Pass
+137394,58,MissedShots,0.850999985,0.517999992,0.102581121,Lionel Messi,a,2097,OpenPlay,2016,RightFoot,2785,Sevilla,Barcelona,1,2,06-11-2016 23:45,NA,TakeOn
+137401,76,SavedShot,0.889000015,0.519000015,0.044644076,Lionel Messi,a,2097,OpenPlay,2016,Head,2785,Sevilla,Barcelona,1,2,06-11-2016 23:45,Neymar,Aerial
+138003,58,Goal,0.895,0.544000015,0.109583385,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,2804,Real Sociedad,Barcelona,1,1,27-11-2016 23:45,Neymar,Pass
+138574,81,MissedShots,0.916999969,0.610999985,0.392241895,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3164,Barcelona,Real Madrid,1,1,03-12-2016 19:15,Andrés Iniesta,Pass
+138262,14,SavedShot,0.885,0.55,0.411641777,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3174,Osasuna,Barcelona,0,3,10-12-2016 16:00,Luis Suárez,Pass
+138266,24,SavedShot,0.893000031,0.409000015,0.372851819,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3174,Osasuna,Barcelona,0,3,10-12-2016 16:00,Luis Suárez,Pass
+138269,42,MissedShots,0.906999969,0.643000031,0.084334895,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3174,Osasuna,Barcelona,0,3,10-12-2016 16:00,Arda Turan,Pass
+138274,67,SavedShot,0.828000031,0.355,0.060594462,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3174,Osasuna,Barcelona,0,3,10-12-2016 16:00,Luis Suárez,Pass
+138275,71,Goal,0.933000031,0.562999992,0.509890616,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3174,Osasuna,Barcelona,0,3,10-12-2016 16:00,Jordi Alba,Pass
+138277,89,MissedShots,0.891999969,0.67,0.086577766,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3174,Osasuna,Barcelona,0,3,10-12-2016 16:00,Denis Suárez,Pass
+138278,91,Goal,0.873000031,0.510999985,0.114925712,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3174,Osasuna,Barcelona,0,3,10-12-2016 16:00,Sergio Busquets,TakeOn
+140629,6,MissedShots,0.933000031,0.409000015,0.520249784,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,3190,Barcelona,Espanyol,4,1,18-12-2016 23:45,Neymar,Pass
+140633,28,BlockedShot,0.905999985,0.661999969,0.081118539,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3190,Barcelona,Espanyol,4,1,18-12-2016 23:45,Neymar,Pass
+140636,47,MissedShots,0.770999985,0.369000015,0.031257428,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3190,Barcelona,Espanyol,4,1,18-12-2016 23:45,Andrés Iniesta,Pass
+140639,66,SavedShot,0.845999985,0.492999992,0.121598937,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3190,Barcelona,Espanyol,4,1,18-12-2016 23:45,Andrés Iniesta,TakeOn
+140643,85,MissedShots,0.926999969,0.562999992,0.14057143,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3190,Barcelona,Espanyol,4,1,18-12-2016 23:45,Neymar,Pass
+140644,89,Goal,0.931999969,0.44,0.665970087,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3190,Barcelona,Espanyol,4,1,18-12-2016 23:45,Luis Suárez,Throughball
+139082,7,BlockedShot,0.875999985,0.643000031,0.075007536,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3892,Villarreal,Barcelona,1,1,08-01-2017 23:45,Neymar,Pass
+139097,61,BlockedShot,0.724000015,0.307000008,0.01465382,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3892,Villarreal,Barcelona,1,1,08-01-2017 23:45,Sergi Roberto,Pass
+139100,71,BlockedShot,0.853000031,0.530999985,0.063611932,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3892,Villarreal,Barcelona,1,1,08-01-2017 23:45,NA,None
+140050,32,MissedShots,0.961999969,0.357000008,0.095481761,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,3895,Barcelona,Las Palmas,5,0,14-01-2017 19:15,NA,Rebound
+140053,44,SavedShot,0.888000031,0.465999985,0.445888877,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3895,Barcelona,Las Palmas,5,0,14-01-2017 19:15,NA,BallRecovery
+140057,50,MissedShots,0.926999969,0.67,0.079706952,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3895,Barcelona,Las Palmas,5,0,14-01-2017 19:15,Luis Suárez,Chipped
+140058,51,Goal,0.964000015,0.479000015,0.663991928,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,3895,Barcelona,Las Palmas,5,0,14-01-2017 19:15,NA,None
+141174,30,BlockedShot,0.809000015,0.502999992,0.058695581,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3912,Eibar,Barcelona,0,4,22-01-2017 22:45,Neymar,Pass
+141178,49,Goal,0.929000015,0.547999992,0.516760588,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3912,Eibar,Barcelona,0,4,22-01-2017 22:45,Luis Suárez,Throughball
+139752,86,BlockedShot,0.806999969,0.545,0.051125623,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3919,Real Betis,Barcelona,1,1,29-01-2017 14:00,Neymar,Pass
+140116,16,BlockedShot,0.871999969,0.629000015,0.074576989,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3926,Barcelona,Athletic Club,3,0,04-02-2017 15:15,Neymar,Pass
+140128,58,MissedShots,0.931999969,0.684000015,0.08407034,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3926,Barcelona,Athletic Club,3,0,04-02-2017 15:15,Neymar,BallTouch
+141270,3,SavedShot,0.905,0.669000015,0.067316532,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3936,Alaves,Barcelona,0,6,11-02-2017 15:15,Neymar,Pass
+141275,22,BlockedShot,0.868000031,0.445,0.077135198,Lionel Messi,a,2097,OpenPlay,2016,RightFoot,3936,Alaves,Barcelona,0,6,11-02-2017 15:15,NA,None
+141288,58,Goal,0.915,0.655,0.098027565,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3936,Alaves,Barcelona,0,6,11-02-2017 15:15,NA,Tackle
+141298,81,BlockedShot,0.873000031,0.497000008,0.110331349,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3936,Alaves,Barcelona,0,6,11-02-2017 15:15,NA,Rebound
+141297,81,BlockedShot,0.885999985,0.447999992,0.134411857,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3936,Alaves,Barcelona,0,6,11-02-2017 15:15,Luis Suárez,Pass
+138935,3,Goal,0.95,0.485,0.638512373,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,3945,Barcelona,Leganes,2,1,19-02-2017 19:45,Luis Suárez,Pass
+138940,26,SavedShot,0.93,0.427000008,0.51590842,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3945,Barcelona,Leganes,2,1,19-02-2017 19:45,Luis Suárez,Pass
+139871,7,MissedShots,0.818000031,0.648000031,0.043652564,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3956,Atletico Madrid,Barcelona,1,2,26-02-2017 15:15,NA,Tackle
+139878,28,SavedShot,0.86,0.665999985,0.057563532,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3956,Atletico Madrid,Barcelona,1,2,26-02-2017 15:15,Neymar,Pass
+139888,59,BlockedShot,0.845999985,0.295,0.024572326,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3956,Atletico Madrid,Barcelona,1,2,26-02-2017 15:15,Luis Suárez,HeadPass
+138768,8,Goal,0.861999969,0.52,0.225299016,Lionel Messi,h,2097,OpenPlay,2016,Head,3967,Barcelona,Sporting Gijon,6,1,01-03-2017 18:30,Javier Mascherano,Throughball
+138777,26,BlockedShot,0.808000031,0.342000008,0.044998955,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3967,Barcelona,Sporting Gijon,6,1,01-03-2017 18:30,Luis Suárez,Pass
+138783,46,BlockedShot,0.863000031,0.658000031,0.081324667,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3967,Barcelona,Sporting Gijon,6,1,01-03-2017 18:30,Neymar,Pass
+138785,50,BlockedShot,0.819000015,0.545999985,0.087253183,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3967,Barcelona,Sporting Gijon,6,1,01-03-2017 18:30,Denis Suárez,Pass
+139703,13,SavedShot,0.768000031,0.609000015,0.037560776,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3984,Barcelona,Celta Vigo,5,0,04-03-2017 19:45,Neymar,LayOff
+139706,18,ShotOnPost,0.92,0.291000004,0.042333532,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,3984,Barcelona,Celta Vigo,5,0,04-03-2017 19:45,NA,Rebound
+139709,23,Goal,0.815999985,0.509000015,0.068979263,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3984,Barcelona,Celta Vigo,5,0,04-03-2017 19:45,Sergio Busquets,TakeOn
+139712,31,BlockedShot,0.770999985,0.624000015,0.04920911,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3984,Barcelona,Celta Vigo,5,0,04-03-2017 19:45,Sergi Roberto,LayOff
+139721,63,Goal,0.86,0.425,0.136429623,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,3984,Barcelona,Celta Vigo,5,0,04-03-2017 19:45,NA,TakeOn
+139806,20,BlockedShot,0.881999969,0.604000015,0.094376497,Lionel Messi,a,2097,OpenPlay,2016,RightFoot,3985,Deportivo La Coruna,Barcelona,2,1,12-03-2017 15:15,Luis Suárez,Pass
+139818,56,MissedShots,0.800999985,0.549000015,0.046095356,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3985,Deportivo La Coruna,Barcelona,2,1,12-03-2017 15:15,Jordi Alba,Pass
+139827,81,SavedShot,0.871999969,0.282999992,0.040753577,Lionel Messi,a,2097,OpenPlay,2016,RightFoot,3985,Deportivo La Coruna,Barcelona,2,1,12-03-2017 15:15,Andrés Iniesta,Pass
+139833,92,BlockedShot,0.799000015,0.372999992,0.029059988,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,3985,Deportivo La Coruna,Barcelona,2,1,12-03-2017 15:15,Sergio Busquets,Chipped
+141013,14,BlockedShot,0.95,0.532000008,0.146051958,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4003,Barcelona,Valencia,4,2,19-03-2017 19:45,Luis Suárez,Pass
+141014,15,MissedShots,0.879000015,0.342000008,0.078918315,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4003,Barcelona,Valencia,4,2,19-03-2017 19:45,Andrés Iniesta,TakeOn
+141020,35,BlockedShot,0.788000031,0.489000015,0.060997531,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4003,Barcelona,Valencia,4,2,19-03-2017 19:45,NA,TakeOn
+141035,71,SavedShot,0.913000031,0.668000031,0.092330933,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4003,Barcelona,Valencia,4,2,19-03-2017 19:45,Neymar,Pass
+142929,3,ShotOnPost,0.801999969,0.545999985,0.051967781,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4022,Barcelona,Sevilla,3,0,05-04-2017 18:30,Luis Suárez,Pass
+142936,27,Goal,0.928000031,0.46,0.154371843,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,4022,Barcelona,Sevilla,3,0,05-04-2017 18:30,Luis Suárez,Pass
+142938,40,BlockedShot,0.911999969,0.555,0.144993752,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4022,Barcelona,Sevilla,3,0,05-04-2017 18:30,Neymar,Pass
+142940,44,BlockedShot,0.86,0.703000031,0.049738333,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4022,Barcelona,Sevilla,3,0,05-04-2017 18:30,Neymar,Pass
+142941,49,MissedShots,0.903000031,0.675999985,0.095875204,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4022,Barcelona,Sevilla,3,0,05-04-2017 18:30,Neymar,Chipped
+142942,50,SavedShot,0.855,0.681999969,0.064888887,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4022,Barcelona,Sevilla,3,0,05-04-2017 18:30,Luis Suárez,Pass
+141771,55,MissedShots,0.798000031,0.370999985,0.035034288,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4028,Malaga,Barcelona,2,0,08-04-2017 19:45,Sergi Roberto,Pass
+142639,16,Goal,0.755,0.467999992,0.024884874,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4039,Barcelona,Real Sociedad,3,2,15-04-2017 19:45,Luis Suárez,Pass
+142640,19,MissedShots,0.970999985,0.53,0.784919322,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4039,Barcelona,Real Sociedad,3,2,15-04-2017 19:45,Luis Suárez,Pass
+142647,36,Goal,0.975999985,0.5,0.910751879,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,4039,Barcelona,Real Sociedad,3,2,15-04-2017 19:45,NA,Rebound
+142651,43,BlockedShot,0.853000031,0.495999985,0.078465246,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4039,Barcelona,Real Sociedad,3,2,15-04-2017 19:45,Luis Suárez,Chipped
+142655,50,MissedShots,0.866999969,0.475,0.112925872,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4039,Barcelona,Real Sociedad,3,2,15-04-2017 19:45,Sergi Roberto,Pass
+141995,32,Goal,0.895,0.512999992,0.404192209,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4047,Real Madrid,Barcelona,2,3,23-04-2017 19:45,Ivan Rakitic,TakeOn
+141998,40,MissedShots,0.860999985,0.555,0.073520601,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4047,Real Madrid,Barcelona,2,3,23-04-2017 19:45,NA,None
+142010,68,SavedShot,0.779000015,0.624000015,0.027623028,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4047,Real Madrid,Barcelona,2,3,23-04-2017 19:45,Sergio Busquets,Pass
+142016,82,SavedShot,0.779000015,0.424000015,0.063618749,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4047,Real Madrid,Barcelona,2,3,23-04-2017 19:45,Sergi Roberto,TakeOn
+142022,91,Goal,0.869000015,0.525,0.107598975,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4047,Real Madrid,Barcelona,2,3,23-04-2017 19:45,Jordi Alba,Pass
+142757,11,Goal,0.88,0.440999985,0.393151611,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4055,Barcelona,Osasuna,7,1,26-04-2017 18:30,NA,BallRecovery
+142759,25,MissedShots,0.908000031,0.315,0.068512149,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,4055,Barcelona,Osasuna,7,1,26-04-2017 18:30,Paco Alcácer,Pass
+142760,29,BlockedShot,0.795999985,0.605999985,0.054787979,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4055,Barcelona,Osasuna,7,1,26-04-2017 18:30,NA,Tackle
+142771,60,Goal,0.810999985,0.557000008,0.070459776,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4055,Barcelona,Osasuna,7,1,26-04-2017 18:30,Ivan Rakitic,Pass
+143402,81,SavedShot,0.875999985,0.594000015,0.120969288,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4065,Espanyol,Barcelona,0,3,29-04-2017 19:45,Jordi Alba,Pass
+143407,90,SavedShot,0.819000015,0.487000008,0.078420229,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4065,Espanyol,Barcelona,0,3,29-04-2017 19:45,Luis Suárez,Pass
+143892,20,BlockedShot,0.871999969,0.69,0.038239338,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4075,Barcelona,Villarreal,4,1,06-05-2017 17:30,Luis Suárez,Chipped
+143895,28,MissedShots,0.913000031,0.655,0.089948222,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4075,Barcelona,Villarreal,4,1,06-05-2017 17:30,Ivan Rakitic,Pass
+143903,44,Goal,0.786999969,0.632999992,0.036057942,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,4075,Barcelona,Villarreal,4,1,06-05-2017 17:30,Sergio Busquets,TakeOn
+143907,56,SavedShot,0.82,0.492999992,0.080670148,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,4075,Barcelona,Villarreal,4,1,06-05-2017 17:30,Neymar,Pass
+144141,13,BlockedShot,0.829000015,0.510999985,0.071247019,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4085,Las Palmas,Barcelona,1,4,14-05-2017 19:00,Jordi Alba,Pass
+144148,54,BlockedShot,0.868000031,0.534000015,0.132463321,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4085,Las Palmas,Barcelona,1,4,14-05-2017 19:00,Jordi Alba,Pass
+144155,76,MissedShots,0.89,0.680999985,0.075486444,Lionel Messi,a,2097,OpenPlay,2016,LeftFoot,4085,Las Palmas,Barcelona,1,4,14-05-2017 19:00,Luis Suárez,Pass
+144159,90,SavedShot,0.881999969,0.710999985,0.0664251,Lionel Messi,a,2097,OpenPlay,2016,RightFoot,4085,Las Palmas,Barcelona,1,4,14-05-2017 19:00,NA,BallRecovery
+143365,17,SavedShot,0.963000031,0.256000004,0.040389281,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,4095,Barcelona,Eibar,4,2,21-05-2017 19:00,Sergio Busquets,Pass
+143374,55,MissedShots,0.939000015,0.512000008,0.554007888,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,4095,Barcelona,Eibar,4,2,21-05-2017 19:00,Luis Suárez,Pass
+143385,91,Goal,0.856999969,0.472999992,0.165881231,Lionel Messi,h,2097,OpenPlay,2016,RightFoot,4095,Barcelona,Eibar,4,2,21-05-2017 19:00,NA,TakeOn
