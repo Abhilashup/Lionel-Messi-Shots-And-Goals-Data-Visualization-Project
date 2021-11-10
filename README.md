@@ -19,5 +19,6 @@ https://twitter.com/Abhilashprakash/status/1450792367016005644
 
 # THE VISUALIZATION :
 
+![messi_early_career](https://user-images.githubusercontent.com/66258607/141074960-e1e107d2-bab4-444d-8911-76b78f108e16.png)
 
 
